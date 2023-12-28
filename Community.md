@@ -58,19 +58,37 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Abhilasha supe</td>
+    <td>Sagar Kori</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/abhilashasupe</td>
+    <td>https://github.com/sagarkori143</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+    <td>https://www.linkedin.com/in/sagar-kori-02280a258/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>IIIT SURAT</td>
+    <td>IIIT Jabalpur</td>
+    <table>
+  <tr>
+    <td>Name</td>
+    <td>Vivek</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/blackkite88</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>[https://www.linkedin.com/in/shruti-ag](https://www.linkedin.com/in/girija-n-jena-044972272/)</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Rourkela,Odisha</td>
+  </tr>
+</table>
   </tr>
 </table>
 
